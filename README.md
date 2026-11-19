@@ -1,0 +1,1 @@
+The images here are UI previews rendered with fictional demo data. Before the demo, replace them with real screenshots from the running app (Load demo data, then capture): `dashboard.png`, `members.png`, `loans.png`, `receipt.png`, `login.png`. Keep the same file names so the README keeps working.

@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "KASVIA — Kakuma Savings & Village Investment Assistant",
+  "short_name": "KASVIA",
+  "description": "Offline Village Savings and Loans (VSL) management system for community savings groups in Kenya.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#F6F4EC",
+  "theme_color": "#0F4C41",
+  "lang": "en",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

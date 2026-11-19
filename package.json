@@ -1,0 +1,20 @@
+{
+  "name": "kasvia",
+  "version": "1.0.0",
+  "description": "KASVIA - Kakuma Savings & Village Investment Assistant. Offline-first VSL management system.",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test tests/kasvia.test.js",
+    "start": "python3 -m http.server 8080 --directory app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "fake-indexeddb": "^6.2.8"
+  },
+  "private": true
+}
